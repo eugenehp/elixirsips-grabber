@@ -12,7 +12,8 @@ var email 		= process.env.email || '';
 var password 	= process.env.password || '';
 
 var cookiesJar 	= request.jar()
-var dir 		= './tmp';
+var dir 		= './files';
+var currentFile = '';
 
 utils.deleteFolderRecursive(dir);
 
@@ -60,19 +61,23 @@ function getListOfContent(){
 			var a = [];
 			$('div.content-post-meta > a').each(function(){
 				a.push( 'https://elixirsips.dpdcart.com' + $(this).attr('href') );
+				if(a.length == 2)
+					iterateEachContent(a.reverse());
 			});
 
-			iterateEachContent(a.reverse());
+			// iterateEachContent(a.reverse());
 		}
 	});
 }
 
 function iterateEachContent(arrayOfContent){
-	// console.log(arrayOfContent);
-	grabContent(arrayOfContent[0]);
+	async.mapSeries(arrayOfContent,grabContent,function(err,directoriesDownloaded){
+		console.log('\nfinished downloading content\n');
+		console.log(directoriesDownloaded);
+	});
 }
 
-function grabContent(contentURL){
+function grabContent(contentURL, cb){
 	request({
 		method: 	'GET',
 		url: 		contentURL,
@@ -93,12 +98,12 @@ function grabContent(contentURL){
 				});
 			});
 
-			storeContent(directoryName, links);
+			storeContent(directoryName, links, cb);
 		}
 	});
 }
 
-function storeContent(directoryName, links){
+function storeContent(directoryName, links, cb){
 	if (!fs.existsSync(directoryName)){
 		fs.mkdirSync(directoryName);
 	}
@@ -113,8 +118,10 @@ function storeContent(directoryName, links){
 	};
 
 	async.mapSeries(inputLinks,getFile,function(err, results){
+		console.log('==============================================================================');
 		console.log('Finished working on `'+directoryName+'`');
-		console.log(results);
+		console.log('==============================================================================\n\n');
+		cb(err,directoryName);
 	});
 }
 
@@ -133,17 +140,17 @@ function getFile(array,cb){
 	.on('response', function(response) {
 		length = parseInt(response.headers['content-length'], 10);
 		
-		console.log();
-		bar = new progress('downloading '+filename+' [:bar] :percent :etas', {
+		bar = new progress('downloading '+filename+'\t\t [:bar] :percent :etas', {
 			complete: '=',
 			incomplete: ' ',
 			width: 20,
 			total: length
 		});
 
-		// console.log(filename,response.statusCode,response.headers['content-type']) // 'image/png'
 	})
 	.on('data', function (chunk) {
+		//keeping a track of current file that's being written
+		currentFile = filename;
 		bar.tick(chunk.length);
 	})
 	.on('end',function(){
@@ -151,3 +158,21 @@ function getFile(array,cb){
 	})
 	.pipe(fs.createWriteStream(filename));
 }
+
+function exitHandler(options, err){
+	if (options.cleanup) {
+		console.log('\nCleaning up, removing current file:',currentFile);
+		fs.unlinkSync(currentFile);
+	}
+    if (err) console.log(err.stack);
+    if (options.exit) process.exit();
+}
+
+process.on('beforeExit', exitHandler.bind(null,{cleanup:true}));
+process.on('exit', exitHandler.bind(null,{cleanup:true}));
+
+//catches ctrl+c event
+process.on('SIGINT', exitHandler.bind(null, {exit:true}));
+
+//catches uncaught exceptions
+process.on('uncaughtException', exitHandler.bind(null, {exit:true}));
