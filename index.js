@@ -15,16 +15,14 @@ var cookiesJar 	= request.jar()
 var dir 		= './files';
 var currentFile = '';
 
-// utils.deleteFolderRecursive(dir);
-
 if (!fs.existsSync(dir)){
 	fs.mkdirSync(dir);
 }
 
-// console.log(email,password);
-
 if( email == '' || password == '')
 	return new Error('Make sure you have email & password in your environment variables');
+else
+	console.log('Welcome to elixirsips grabber, your content will be downloaded to',dir,'using email',email,'\n');
 
 request.get(loginURL,function(error, response, body){
 	if( !error && response.statusCode == 200 ){
@@ -159,6 +157,7 @@ function getFile(array,cb){
 			bar.tick(chunk.length);
 		})
 		.on('end',function(){
+			filename = '';
 			cb(null,filename);
 		})
 		.pipe(fs.createWriteStream(filename));
@@ -167,17 +166,16 @@ function getFile(array,cb){
 function exitHandler(options, err){
 	if (options.cleanup) {
 		console.log('\nCleaning up, removing current file:',currentFile);
-		fs.unlinkSync(currentFile);
+		if( fs.existsSync(currentFile) )
+			fs.unlinkSync(currentFile);
 	}
     if (err) console.log(err.stack);
     if (options.exit) process.exit();
 }
 
-process.on('beforeExit', exitHandler.bind(null,{cleanup:true}));
-process.on('exit', exitHandler.bind(null,{cleanup:true}));
-
+process.on('beforeExit', 		exitHandler.bind(null, {cleanup:true}));
+process.on('exit', 				exitHandler.bind(null, {exit:true}));
 //catches ctrl+c event
-process.on('SIGINT', exitHandler.bind(null, {exit:true}));
-
+process.on('SIGINT', 			exitHandler.bind(null, {exit:true}));
 //catches uncaught exceptions
 process.on('uncaughtException', exitHandler.bind(null, {exit:true}));
