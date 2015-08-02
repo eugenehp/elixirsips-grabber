@@ -15,7 +15,7 @@ var cookiesJar 	= request.jar()
 var dir 		= './files';
 var currentFile = '';
 
-utils.deleteFolderRecursive(dir);
+// utils.deleteFolderRecursive(dir);
 
 if (!fs.existsSync(dir)){
 	fs.mkdirSync(dir);
@@ -132,31 +132,36 @@ function getFile(array,cb){
 	var length = 0;
 	var bar;
 
-	request({
-		method: 	'GET',
-		url: 		fileURL,
-		jar: 		cookiesJar
-	})
-	.on('response', function(response) {
-		length = parseInt(response.headers['content-length'], 10);
-		
-		bar = new progress('downloading '+filename+'\t\t [:bar] :percent :etas', {
-			complete: '=',
-			incomplete: ' ',
-			width: 20,
-			total: length
-		});
+	if( fs.existsSync(filename) ){
+		console.log('already downloaded\t', filename);
+		cb(null, filename);
+	}
+	else
+		request({
+			method: 	'GET',
+			url: 		fileURL,
+			jar: 		cookiesJar
+		})
+		.on('response', function(response) {
+			length = parseInt(response.headers['content-length'], 10);
+			
+			bar = new progress('downloading\t'+filename+'\t\t [:bar] :percent :etas', {
+				complete: '=',
+				incomplete: ' ',
+				width: 20,
+				total: length
+			});
 
-	})
-	.on('data', function (chunk) {
-		//keeping a track of current file that's being written
-		currentFile = filename;
-		bar.tick(chunk.length);
-	})
-	.on('end',function(){
-		cb(null,filename);
-	})
-	.pipe(fs.createWriteStream(filename));
+		})
+		.on('data', function (chunk) {
+			//keeping a track of current file that's being written
+			currentFile = filename;
+			bar.tick(chunk.length);
+		})
+		.on('end',function(){
+			cb(null,filename);
+		})
+		.pipe(fs.createWriteStream(filename));
 }
 
 function exitHandler(options, err){
