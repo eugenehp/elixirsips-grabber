@@ -1,0 +1,1528 @@
+mac:elixirsips-grabber iii$ node index.js 
+Welcome to elixirsips grabber, your content will be downloaded to ./files using email eugene.hp2012@gmail.com 
+
+downloading	./files/001 - Introduction and Installing Elixir/001_Introduction_and_Installing_Elixir.md		 [====================] 100% 0.0s
+downloading	./files/001 - Introduction and Installing Elixir/001_Introduction_and_Installing_Elixir.mp4		 [====================] 100% 0.0s
+downloading	./files/001 - Introduction and Installing Elixir/001_Introduction_and_Installing_Elixir.mkv		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/001 - Introduction and Installing Elixir`
+==============================================================================
+
+
+downloading	./files/002 - Basic Elixir/002_Basic_Elixir.mp4		 [====================] 100% 0.0s
+downloading	./files/002 - Basic Elixir/002_Basic_Elixir.mkv		 [====================] 100% 0.0s
+downloading	./files/002 - Basic Elixir/002_Basic_Elixir.md		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/002 - Basic Elixir`
+==============================================================================
+
+
+downloading	./files/003 - Pattern Matching/003_Pattern_Matching.mp4		 [====================] 100% 0.0s
+downloading	./files/003 - Pattern Matching/003_Pattern_Matching.md		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/003 - Pattern Matching`
+==============================================================================
+
+
+downloading	./files/004 - Functions/004_Functions.mp4		 [====================] 100% 0.0s
+downloading	./files/004 - Functions/004_Functions.md		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/004 - Functions`
+==============================================================================
+
+
+downloading	./files/005 - Mix and Modules/005_Modules.mp4		 [====================] 100% 0.0s
+downloading	./files/005 - Mix and Modules/005_Modules.md		 [====================] 100% 0.0s
+downloading	./files/005 - Mix and Modules/005_modules_example.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/005 - Mix and Modules`
+==============================================================================
+
+
+downloading	./files/006 - Unit Testing/006_Testing.mp4		 [====================] 100% 0.0s
+downloading	./files/006 - Unit Testing/006_schizo.tar.gz		 [====================] 100% 0.0s
+downloading	./files/006 - Unit Testing/006_Testing.md		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/006 - Unit Testing`
+==============================================================================
+
+
+downloading	./files/007 - Dynamo, Part 1/007_Dynamo_Part_1.mp4		 [====================] 100% 0.0s
+downloading	./files/007 - Dynamo, Part 1/007_Dynamo_Part_1.md		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/007 - Dynamo, Part 1`
+==============================================================================
+
+
+downloading	./files/008 - Dynamo, Part 2/008_Dynamo_Part_2.mp4		 [====================] 100% 0.0s
+downloading	./files/008 - Dynamo, Part 2/008_Dynamo_Part_2.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/008 - Dynamo, Part 2`
+==============================================================================
+
+
+downloading	./files/009 - Dynamo, Part 3/009_Dynamo_Part_3.mp4		 [====================] 100% 0.0s
+downloading	./files/009 - Dynamo, Part 3/009_Dynamo_Part_3.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/009 - Dynamo, Part 3`
+==============================================================================
+
+
+downloading	./files/010 - List Comprehensions/010_List_Comprehension.mp4		 [====================] 100% 0.0s
+downloading	./files/010 - List Comprehensions/010_List_Comprehensions.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/010 - List Comprehensions`
+==============================================================================
+
+
+downloading	./files/011 - Records/011_Records.mp4		 [====================] 100% 0.0s
+downloading	./files/011 - Records/011_Records.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/011 - Records`
+==============================================================================
+
+
+downloading	./files/012 - Processes/012_Processes_-_Notes_On_Elixir_Syntax_Changes.txt		 [====================] 100% 0.0s
+downloading	./files/012 - Processes/012_Processes.mp4		 [====================] 100% 0.0s
+downloading	./files/012 - Processes/012_Processes.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/012 - Processes`
+==============================================================================
+
+
+downloading	./files/013 - Processes, Part 2/013_Processes_Part_2.mp4		 [====================] 100% 0.0s
+downloading	./files/013 - Processes, Part 2/013_Processes_Part_2.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/013 - Processes, Part 2`
+==============================================================================
+
+
+downloading	./files/014 - OTP Part 1: Servers/014_OTP_Part_1_Servers.markdown		 [====================] 100% 0.0s
+downloading	./files/014 - OTP Part 1: Servers/014_OTP_Part_1_Servers.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/014 - OTP Part 1: Servers`
+==============================================================================
+
+
+downloading	./files/015 - OTP Part 2: Finite State Machines/015_OTP_Part_2_Finite_State_Machines_Diagram.png		 [====================] 100% 0.0s
+downloading	./files/015 - OTP Part 2: Finite State Machines/015_OTP_Part_2_Finite_State_Machines_Diagram.svg		 [====================] 100% 0.0s
+downloading	./files/015 - OTP Part 2: Finite State Machines/015_OTP_Part_2_Finite_State_Machines.markdown		 [====================] 100% 0.0s
+downloading	./files/015 - OTP Part 2: Finite State Machines/015_OTP_Part_2_Finite_State_Machines.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/015 - OTP Part 2: Finite State Machines`
+==============================================================================
+
+
+downloading	./files/016 - Pipe Operator/016_Pipe_Operator.mp4		 [====================] 100% 0.0s
+downloading	./files/016 - Pipe Operator/pipe_operatory_playground_test.exs		 [====================] 100% 0.0s
+downloading	./files/016 - Pipe Operator/016_Pipe_Operator.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/016 - Pipe Operator`
+==============================================================================
+
+
+downloading	./files/017 - Enum, Part 1/017_Enum_Part_1.markdown		 [====================] 100% 0.0s
+downloading	./files/017 - Enum, Part 1/017_Enum_Part_1.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/017 - Enum, Part 1`
+==============================================================================
+
+
+downloading	./files/018 - Enum, Part 2/018_Enum_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/018 - Enum, Part 2/018_Enum_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/018 - Enum, Part 2`
+==============================================================================
+
+
+downloading	./files/019 - Enum, Part 3/019_Enum_Part_3.markdown		 [====================] 100% 0.0s
+downloading	./files/019 - Enum, Part 3/019_Enum_Part_3.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/019 - Enum, Part 3`
+==============================================================================
+
+
+downloading	./files/020 - OTP, Part 3 - GenEvent/020_OTP_Part_3_GenEvent.markdown		 [====================] 100% 0.0s
+downloading	./files/020 - OTP, Part 3 - GenEvent/zeldacat.tar.gz		 [====================] 100% 0.0s
+downloading	./files/020 - OTP, Part 3 - GenEvent/020_OTP_Part_3_GenEvent.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/020 - OTP, Part 3 - GenEvent`
+==============================================================================
+
+
+downloading	./files/021 - ZeldaCat, Part 2/zeldacat.tar.gz		 [====================] 100% 0.0s
+downloading	./files/021 - ZeldaCat, Part 2/021_ZeldaCat_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/021 - ZeldaCat, Part 2/021_ZeldaCat_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/021 - ZeldaCat, Part 2`
+==============================================================================
+
+
+downloading	./files/022 - OTP, Part 4: Supervisors/supervised_list_server.tar.gz		 [====================] 100% 0.0s
+downloading	./files/022 - OTP, Part 4: Supervisors/022_OTP_Part_4_Supervisors.markdown		 [====================] 100% 0.0s
+downloading	./files/022 - OTP, Part 4: Supervisors/022_OTP_Part_4_Supervisors.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/022 - OTP, Part 4: Supervisors`
+==============================================================================
+
+
+downloading	./files/023 - OTP, Part 5: Supervisors and Persistent State/023_supervision_tree.png		 [====================] 100% 0.0s
+downloading	./files/023 - OTP, Part 5: Supervisors and Persistent State/023_supervised_list_server.tar.gz		 [====================] 100% 0.0s
+downloading	./files/023 - OTP, Part 5: Supervisors and Persistent State/023_OTP_Part_5_Supervisors_and_Persistent_State.markdown		 [====================] 100% 0.0s
+downloading	./files/023 - OTP, Part 5: Supervisors and Persistent State/023_supervision_tree.svg		 [====================] 100% 0.0s
+downloading	./files/023 - OTP, Part 5: Supervisors and Persistent State/023_OTP_Part_5_Supervisors_and_Persistent_State.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/023 - OTP, Part 5: Supervisors and Persistent State`
+==============================================================================
+
+
+downloading	./files/024 - Ecto, Part 1/024_Ecto_Part_1.mp4		 [====================] 100% 0.0s
+downloading	./files/024 - Ecto, Part 1/024_Ecto_Part_1.markdown		 [====================] 100% 0.0s
+downloading	./files/024 - Ecto, Part 1/024_ecto_test.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/024 - Ecto, Part 1`
+==============================================================================
+
+
+downloading	./files/025 - Ecto, Part 2: Dwitter/025_dwitter.tar.gz		 [====================] 100% 0.0s
+downloading	./files/025 - Ecto, Part 2: Dwitter/025_Ecto_Part_2_Dwitter.markdown		 [====================] 100% 0.0s
+downloading	./files/025 - Ecto, Part 2: Dwitter/025_Ecto_Part_2_Dwitter.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/025 - Ecto, Part 2: Dwitter`
+==============================================================================
+
+
+downloading	./files/026 - Dict, Part 1/026_Dict_Part_1.markdown		 [====================] 100% 0.0s
+downloading	./files/026 - Dict, Part 1/026_Dict_Part_1.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/026 - Dict, Part 1`
+==============================================================================
+
+
+downloading	./files/027 - Dict, Part 2/027_Dict_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/027 - Dict, Part 2/027_Dict_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/027 - Dict, Part 2`
+==============================================================================
+
+
+downloading	./files/028 - Parsing XML/028_parsing_xml.tar.gz		 [====================] 100% 0.0s
+downloading	./files/028 - Parsing XML/028_Parsing_XML.markdown		 [====================] 100% 0.0s
+downloading	./files/028 - Parsing XML/028_Parsing_XML.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/028 - Parsing XML`
+==============================================================================
+
+
+downloading	./files/029 - HTTP Clients/029_http_client_survey.tar.gz		 [====================] 100% 0.0s
+downloading	./files/029 - HTTP Clients/029_HTTP_Clients.markdown		 [====================] 100% 0.0s
+downloading	./files/029 - HTTP Clients/029_HTTP_Clients.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/029 - HTTP Clients`
+==============================================================================
+
+
+downloading	./files/030 - ExActor/030_exactor_test.tar.gz		 [====================] 100% 0.0s
+downloading	./files/030 - ExActor/030_ExActor.markdown		 [====================] 100% 0.0s
+downloading	./files/030 - ExActor/030_ExActor.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/030 - ExActor`
+==============================================================================
+
+
+downloading	./files/031 - TCP Servers/031_tcp_server.tar.gz		 [====================] 100% 0.0s
+downloading	./files/031 - TCP Servers/031_TCP_Servers.markdown		 [====================] 100% 0.0s
+downloading	./files/031 - TCP Servers/031_TCP_Servers.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/031 - TCP Servers`
+==============================================================================
+
+
+downloading	./files/032 - Command Line Scripts/032_Command_Line_Scripts.mp4		 [====================] 100% 0.0s
+downloading	./files/032 - Command Line Scripts/032_Command_Line_Scripts.markdown		 [====================] 100% 0.0s
+downloading	./files/032 - Command Line Scripts/032_current_weather.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/032 - Command Line Scripts`
+==============================================================================
+
+
+downloading	./files/033 - Pry/033_Pry.markdown		 [====================] 100% 0.0s
+downloading	./files/033 - Pry/033_iex_pry_test.tar.gz		 [====================] 100% 0.0s
+downloading	./files/033 - Pry/033_Pry.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/033 - Pry`
+==============================================================================
+
+
+downloading	./files/034 - Elixiak/034_elixiak_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/034 - Elixiak/034_Elixiak.markdown		 [====================] 100% 0.0s
+downloading	./files/034 - Elixiak/034_Elixiak.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/034 - Elixiak`
+==============================================================================
+
+
+downloading	./files/035 - Weber/035_Weber.mp4		 [====================] 100% 0.0s
+downloading	./files/035 - Weber/035_weber_cityguide.tar.gz		 [====================] 100% 0.0s
+downloading	./files/035 - Weber/035_Weber.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/035 - Weber`
+==============================================================================
+
+
+downloading	./files/036 - Weber, Part 2 - Performance/036_Weber_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/036 - Weber, Part 2 - Performance/036_Weber_part_2_cityguide.tar.gz		 [====================] 100% 0.0s
+downloading	./files/036 - Weber, Part 2 - Performance/036_Weber_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/036 - Weber, Part 2 - Performance`
+==============================================================================
+
+
+downloading	./files/037 - ExLager/037_supervised_list_server_with_exlager.tar.gz		 [====================] 100% 0.0s
+downloading	./files/037 - ExLager/023_supervised_list_server.tar.gz		 [====================] 100% 0.0s
+downloading	./files/037 - ExLager/037_ExLager.markdown		 [====================] 100% 0.0s
+downloading	./files/037 - ExLager/037_ExLager.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/037 - ExLager`
+==============================================================================
+
+
+downloading	./files/038 - Binaries: Deconstructing and Constructing/038_Binaries_Deconstructing_And_Constructing.markdown		 [====================] 100% 0.0s
+downloading	./files/038 - Binaries: Deconstructing and Constructing/038_Binaries_Deconstructing_And_Constructing.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/038 - Binaries: Deconstructing and Constructing`
+==============================================================================
+
+
+downloading	./files/039 - Binaries: Deconstructing an IP Packet/039_sample_packet.bits		 [====================] 100% 0.0s
+downloading	./files/039 - Binaries: Deconstructing an IP Packet/039_ip_parser.tar.gz		 [====================] 100% 0.0s
+downloading	./files/039 - Binaries: Deconstructing an IP Packet/039_Binaries_Deconstructing_an_IP_Packet.markdown		 [====================] 100% 0.0s
+downloading	./files/039 - Binaries: Deconstructing an IP Packet/039_Binaries_Deconstructing_an_IP_Packet.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/039 - Binaries: Deconstructing an IP Packet`
+==============================================================================
+
+
+downloading	./files/040 - Bitwise/040_Bitwise.markdown		 [====================] 100% 0.0s
+downloading	./files/040 - Bitwise/040_Bitwise.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/040 - Bitwise`
+==============================================================================
+
+
+downloading	./files/041 - File, Part 1/041_File_Part_1.markdown		 [====================] 100% 0.0s
+downloading	./files/041 - File, Part 1/041_File_Part_1.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/041 - File, Part 1`
+==============================================================================
+
+
+downloading	./files/042 - File, Part 2/042_File_Part_2.mp4		 [====================] 100% 0.0s
+downloading	./files/042 - File, Part 2/042_File_Part_2.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/042 - File, Part 2`
+==============================================================================
+
+
+downloading	./files/043 - Releases With Relex/043_Releases_With_Relex.markdown		 [====================] 100% 0.0s
+downloading	./files/043 - Releases With Relex/043_Releases_With_Relex.mp4		 [====================] 100% 0.0s
+downloading	./files/043 - Releases With Relex/037_supervised_list_server_with_exlager.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/043 - Releases With Relex`
+==============================================================================
+
+
+downloading	./files/044 - Distribution/044_Distribution.markdown		 [====================] 100% 0.0s
+downloading	./files/044 - Distribution/044_Distribution.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/044 - Distribution`
+==============================================================================
+
+
+downloading	./files/045 - Distribution, Part 2/045_Distribution_Part_2.mp4		 [====================] 100% 0.0s
+downloading	./files/045 - Distribution, Part 2/045_Distribution_Part_2.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/045 - Distribution, Part 2`
+==============================================================================
+
+
+downloading	./files/046 - Markdown Server, Part 1/046_Markdown_Server_Part_1.mp4		 [====================] 100% 0.0s
+downloading	./files/046 - Markdown Server, Part 1/046_Markdown_Server_Part_1.markdown		 [====================] 100% 0.0s
+downloading	./files/046 - Markdown Server, Part 1/046_markdown_server.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/046 - Markdown Server, Part 1`
+==============================================================================
+
+
+downloading	./files/047 - Markdown Server, Part 2/047_Markdown_Server_Part_2.mp4		 [====================] 100% 0.0s
+downloading	./files/047 - Markdown Server, Part 2/047_Markdown_Server_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/047 - Markdown Server, Part 2/047_markdown_server.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/047 - Markdown Server, Part 2`
+==============================================================================
+
+
+downloading	./files/048 - Markdown Server, Part 3/048_Markdown_Server_Part_3.markdown		 [====================] 100% 0.0s
+downloading	./files/048 - Markdown Server, Part 3/048_markdown_server.tar.gz		 [====================] 100% 0.0s
+downloading	./files/048 - Markdown Server, Part 3/048_Markdown_Server_Part_3.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/048 - Markdown Server, Part 3`
+==============================================================================
+
+
+downloading	./files/049 - Markdown Server, Part 4/049_Markdown_Server_Part_4.markdown		 [====================] 100% 0.0s
+downloading	./files/049 - Markdown Server, Part 4/049_markdown_server_part_4.tar.gz		 [====================] 100% 0.0s
+downloading	./files/049 - Markdown Server, Part 4/049_Markdown_Server_Part_4.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/049 - Markdown Server, Part 4`
+==============================================================================
+
+
+downloading	./files/050 - Markdown Server, Part 5/050_markdown_server.tar.gz		 [====================] 100% 0.0s
+downloading	./files/050 - Markdown Server, Part 5/050_Markdown_Server_Part_5.markdown		 [====================] 100% 0.0s
+downloading	./files/050 - Markdown Server, Part 5/050_Markdown_Server_Part_5.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/050 - Markdown Server, Part 5`
+==============================================================================
+
+
+downloading	./files/051 - BEAM Toolbox, Part 1/051_BEAM_Toolbox_Part_1.markdown		 [====================] 100% 0.0s
+downloading	./files/051 - BEAM Toolbox, Part 1/051_BEAM_Toolbox_Part_1.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/051 - BEAM Toolbox, Part 1`
+==============================================================================
+
+
+downloading	./files/052 - BEAM Toolbox, Part 2/052_BEAM_Toolbox_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/052 - BEAM Toolbox, Part 2/052_BEAM_Toolbox_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/052 - BEAM Toolbox, Part 2`
+==============================================================================
+
+
+downloading	./files/053 - BEAM Toolbox, Part 3/053_BEAM_Toolbox_Part_3.markdown		 [====================] 100% 0.0s
+downloading	./files/053 - BEAM Toolbox, Part 3/053_BEAM_Toolbox_Part_3.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/053 - BEAM Toolbox, Part 3`
+==============================================================================
+
+
+downloading	./files/054 - Maps, Part 1/054_Maps_Part_1.markdown		 [====================] 100% 0.0s
+downloading	./files/054 - Maps, Part 1/054_Maps_Part_1.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/054 - Maps, Part 1`
+==============================================================================
+
+
+downloading	./files/055 - Maps, Part 2: Structs/055_Maps_Part_2.mp4		 [====================] 100% 0.0s
+downloading	./files/055 - Maps, Part 2: Structs/055_Maps_Part_2.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/055 - Maps, Part 2: Structs`
+==============================================================================
+
+
+downloading	./files/056 - Migrating Records To Maps/056_Migrating_Records_To_Maps.mp4		 [====================] 100% 0.0s
+downloading	./files/056 - Migrating Records To Maps/056_Migrating_Records_To_Maps.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/056 - Migrating Records To Maps`
+==============================================================================
+
+
+downloading	./files/057 - BEAM Toolbox, Part 4/057_BEAM_Toolbox_Part_4.mp4		 [====================] 100% 0.0s
+downloading	./files/057 - BEAM Toolbox, Part 4/057_BEAM_Toolbox_Part_4.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/057 - BEAM Toolbox, Part 4`
+==============================================================================
+
+
+downloading	./files/058 - BEAM Toolbox, Part 5/058_BEAM_Toolbox_Part_5.mp4		 [====================] 100% 0.0s
+downloading	./files/058 - BEAM Toolbox, Part 5/058_BEAM_Toolbox_Part_5.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/058 - BEAM Toolbox, Part 5`
+==============================================================================
+
+
+downloading	./files/059 - Custom Mix Tasks/059_custom_mix.tar.gz		 [====================] 100% 0.0s
+downloading	./files/059 - Custom Mix Tasks/059_Custom_Mix_Tasks.mp4		 [====================] 100% 0.0s
+downloading	./files/059 - Custom Mix Tasks/059_Custom_Mix_Tasks.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/059 - Custom Mix Tasks`
+==============================================================================
+
+
+downloading	./files/060 - New Style Comprehensions/060_New_Style_Comprehensions.mp4		 [====================] 100% 0.0s
+downloading	./files/060 - New Style Comprehensions/060_New_Style_Comprehensions.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/060 - New Style Comprehensions`
+==============================================================================
+
+
+downloading	./files/061 - Plug/061_plug_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/061 - Plug/061_Plug.markdown		 [====================] 100% 0.0s
+downloading	./files/061 - Plug/061_Plug.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/061 - Plug`
+==============================================================================
+
+
+downloading	./files/062 - Quickie Synth/062_Quickie_Synth.mp4		 [====================] 100% 0.0s
+downloading	./files/062 - Quickie Synth/062_quickie_synth.tar.gz		 [====================] 100% 0.0s
+downloading	./files/062 - Quickie Synth/062_Quickie_Synth.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/062 - Quickie Synth`
+==============================================================================
+
+
+downloading	./files/063 - Tracing/063_Tracing.markdown		 [====================] 100% 0.0s
+downloading	./files/063 - Tracing/063_Tracing.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/063 - Tracing`
+==============================================================================
+
+
+downloading	./files/064 - Digraph/064_Digraph.mp4		 [====================] 100% 0.0s
+downloading	./files/064 - Digraph/064_digraph_maps.tar.gz		 [====================] 100% 0.0s
+downloading	./files/064 - Digraph/064_Digraph.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/064 - Digraph`
+==============================================================================
+
+
+downloading	./files/065 - SSH/065_SSH.markdown		 [====================] 100% 0.0s
+downloading	./files/065 - SSH/065_SSH.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/065 - SSH`
+==============================================================================
+
+
+downloading	./files/066 - Plug.Static/066_Plug_Static.markdown		 [====================] 100% 0.0s
+downloading	./files/066 - Plug.Static/066_Plug_Static.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/066 - Plug.Static`
+==============================================================================
+
+
+downloading	./files/067 - Deploying to Heroku/067_Deploying_to_Heroku.markdown		 [====================] 100% 0.0s
+downloading	./files/067 - Deploying to Heroku/067_Deploying_to_Heroku.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/067 - Deploying to Heroku`
+==============================================================================
+
+
+downloading	./files/068 - Port/068_Port.markdown		 [====================] 100% 0.0s
+downloading	./files/068 - Port/068_Port.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/068 - Port`
+==============================================================================
+
+
+downloading	./files/069 - Observer/069_Observer.markdown		 [====================] 100% 0.0s
+downloading	./files/069 - Observer/069_Observer.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/069 - Observer`
+==============================================================================
+
+
+downloading	./files/070 - Hex/070_Hex.markdown		 [====================] 100% 0.0s
+downloading	./files/070 - Hex/070_Hex.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/070 - Hex`
+==============================================================================
+
+
+downloading	./files/071 - Wx/071_Wx.markdown		 [====================] 100% 0.0s
+downloading	./files/071 - Wx/071_wx.tar.gz		 [====================] 100% 0.0s
+downloading	./files/071 - Wx/071_Wx.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/071 - Wx`
+==============================================================================
+
+
+downloading	./files/072 - WxCalc, Part 2/072_wx_calc.tar.gz		 [====================] 100% 0.0s
+downloading	./files/072 - WxCalc, Part 2/072_WxCalc_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/072 - WxCalc, Part 2/072_WxCalc_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/072 - WxCalc, Part 2`
+==============================================================================
+
+
+downloading	./files/073 - Process Dictionaries/073_Process_Dictionaries.markdown		 [====================] 100% 0.0s
+downloading	./files/073 - Process Dictionaries/073_Process_Dictionaries.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/073 - Process Dictionaries`
+==============================================================================
+
+
+downloading	./files/074 - ETS/074_ets_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/074 - ETS/074_ETS.markdown		 [====================] 100% 0.0s
+downloading	./files/074 - ETS/074_ETS.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/074 - ETS`
+==============================================================================
+
+
+downloading	./files/075 - DETS/075_DETS.markdown		 [====================] 100% 0.0s
+downloading	./files/075 - DETS/075_ets_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/075 - DETS/075_DETS.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/075 - DETS`
+==============================================================================
+
+
+downloading	./files/076 - Streams/076_Streams.markdown		 [====================] 100% 0.0s
+downloading	./files/076 - Streams/076_Streams.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/076 - Streams`
+==============================================================================
+
+
+downloading	./files/077 - Exceptions and Errors/077_Exceptions_and_Errors.markdown		 [====================] 100% 0.0s
+downloading	./files/077 - Exceptions and Errors/077_Exceptions_and_Errors.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/077 - Exceptions and Errors`
+==============================================================================
+
+
+downloading	./files/078 - Agents/078_Agents.markdown		 [====================] 100% 0.0s
+downloading	./files/078 - Agents/078_Agents.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/078 - Agents`
+==============================================================================
+
+
+downloading	./files/079 - Tasks/079_website_pipeline.tar.gz		 [====================] 100% 0.0s
+downloading	./files/079 - Tasks/079_Tasks.markdown		 [====================] 100% 0.0s
+downloading	./files/079 - Tasks/079_Tasks.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/079 - Tasks`
+==============================================================================
+
+
+downloading	./files/080 - erlubi/080_erlubi.markdown		 [====================] 100% 0.0s
+downloading	./files/080 - erlubi/080_erlubi.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/080 - erlubi`
+==============================================================================
+
+
+downloading	./files/081 - EEx/081_eex_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/081 - EEx/081_EEx.markdown		 [====================] 100% 0.0s
+downloading	./files/081 - EEx/081_EEx.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/081 - EEx`
+==============================================================================
+
+
+downloading	./files/082 - Protocols/082_Protocols.mp4		 [====================] 100% 0.0s
+downloading	./files/082 - Protocols/082_Protocols.markdown		 [====================] 100% 0.0s
+downloading	./files/082 - Protocols/082_odd_protocol.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/082 - Protocols`
+==============================================================================
+
+
+downloading	./files/083 - pg2/083_string_processes.tar.gz		 [====================] 100% 0.0s
+downloading	./files/083 - pg2/083_pg2.markdown		 [====================] 100% 0.0s
+downloading	./files/083 - pg2/083_pg2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/083 - pg2`
+==============================================================================
+
+
+downloading	./files/084 - PCM Audio/084_PCM_Audio.markdown		 [====================] 100% 0.0s
+downloading	./files/084 - PCM Audio/084_pcm_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/084 - PCM Audio/084_PCM_Audio.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/084 - PCM Audio`
+==============================================================================
+
+
+downloading	./files/085 - Apex/085_Apex.markdown		 [====================] 100% 0.0s
+downloading	./files/085 - Apex/085_Apex.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/085 - Apex`
+==============================================================================
+
+
+downloading	./files/086 - put_in and get_in/086_put_in_and_get_in.mp4		 [====================] 100% 0.0s
+downloading	./files/086 - put_in and get_in/086_put_in_and_get_in.markdown		 [====================] 100% 0.0s
+downloading	./files/086 - put_in and get_in/086_nested_playground.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/086 - put_in and get_in`
+==============================================================================
+
+
+downloading	./files/087 - WordCloud/087_WordCloud.mp4		 [====================] 100% 0.0s
+downloading	./files/087 - WordCloud/087_WordCloud.markdown		 [====================] 100% 0.0s
+downloading	./files/087 - WordCloud/087_word_clouds.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/087 - WordCloud`
+==============================================================================
+
+
+downloading	./files/088 - Porcelain/088_Porcelain.mp4		 [====================] 100% 0.0s
+downloading	./files/088 - Porcelain/088_porcelain_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/088 - Porcelain/088_Porcelain.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/088 - Porcelain`
+==============================================================================
+
+
+downloading	./files/089 - Protocol Buffers/089_Protocol_Buffers.mp4		 [====================] 100% 0.0s
+downloading	./files/089 - Protocol Buffers/089_Protocol_Buffers.markdown		 [====================] 100% 0.0s
+downloading	./files/089 - Protocol Buffers/089_exprotobuf_playground.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/089 - Protocol Buffers`
+==============================================================================
+
+
+downloading	./files/090 - Websockets Terminal/090_Websockets_Terminal.mp4		 [====================] 100% 0.0s
+downloading	./files/090 - Websockets Terminal/090_websockets_terminal.tar.gz		 [====================] 100% 0.0s
+downloading	./files/090 - Websockets Terminal/090_Websockets_Terminal.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/090 - Websockets Terminal`
+==============================================================================
+
+
+downloading	./files/091 - Test Coverage/091_Test_Coverage.mp4		 [====================] 100% 0.0s
+downloading	./files/091 - Test Coverage/091_Test_Coverage.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/091 - Test Coverage`
+==============================================================================
+
+
+downloading	./files/092 - Link Extractor/092_Link_Extractor.mp4		 [====================] 100% 0.0s
+downloading	./files/092 - Link Extractor/092_Link_Extractor.markdown		 [====================] 100% 0.0s
+downloading	./files/092 - Link Extractor/092_link_extractor.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/092 - Link Extractor`
+==============================================================================
+
+
+downloading	./files/093 - Link Extractor, Part 2/093_Link_Extractor_Part_2.mp4		 [====================] 100% 0.0s
+downloading	./files/093 - Link Extractor, Part 2/093_Link_Extractor_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/093 - Link Extractor, Part 2/093_link_extractor_web.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/093 - Link Extractor, Part 2`
+==============================================================================
+
+
+downloading	./files/094 - Link Extractor, Part 3/094_Link_Extractor_Part_3.mp4		 [====================] 100% 0.0s
+downloading	./files/094 - Link Extractor, Part 3/094_Link_Extractor_Part_3.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/094 - Link Extractor, Part 3`
+==============================================================================
+
+
+downloading	./files/095 - Link Extractor, Part 4/095_Link_Extractor_Part_4.markdown		 [====================] 100% 0.0s
+downloading	./files/095 - Link Extractor, Part 4/095_Link_Extractor_Part_4.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/095 - Link Extractor, Part 4`
+==============================================================================
+
+
+downloading	./files/096 - Arduino Motor Driver/096_Arduino_Motor_Driver.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/096 - Arduino Motor Driver`
+==============================================================================
+
+
+downloading	./files/097 - BEAM Toolbox, Part 6/097_BEAM_Toolbox_Part_6.mp4		 [====================] 100% 0.0s
+downloading	./files/097 - BEAM Toolbox, Part 6/097_BEAM_Toolbox_Part_6.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/097 - BEAM Toolbox, Part 6`
+==============================================================================
+
+
+downloading	./files/098 - Contributing to Open Source/098_Contributing_to_Open_Source.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/098 - Contributing to Open Source`
+==============================================================================
+
+
+downloading	./files/099 - BEAM Toolbox, Part 7/099_BEAM_Toolbox_Part_7.mp4		 [====================] 100% 0.0s
+downloading	./files/099 - BEAM Toolbox, Part 7/099_BEAM_Toolbox_Part_7.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/099 - BEAM Toolbox, Part 7`
+==============================================================================
+
+
+downloading	./files/100 - BEAM Toolbox, Part 8/100_BEAM_Toolbox_Part_8.markdown		 [====================] 100% 0.0s
+downloading	./files/100 - BEAM Toolbox, Part 8/100_BEAM_Toolbox_Part_8.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/100 - BEAM Toolbox, Part 8`
+==============================================================================
+
+
+downloading	./files/101 - BEAM Toolbox, Part 9/101_beam_toolbox_data.tar.gz		 [====================] 100% 0.0s
+downloading	./files/101 - BEAM Toolbox, Part 9/101_BEAM_Toolbox_Part_9.markdown		 [====================] 100% 0.0s
+downloading	./files/101 - BEAM Toolbox, Part 9/101_BEAM_Toolbox_Part_9.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/101 - BEAM Toolbox, Part 9`
+==============================================================================
+
+
+downloading	./files/102 - BEAM Toolbox, Episode 10/102_beam_toolbox_web.tar.gz		 [====================] 100% 0.0s
+downloading	./files/102 - BEAM Toolbox, Episode 10/102_BEAM_Toolbox_Part_10.markdown		 [====================] 100% 0.0s
+downloading	./files/102 - BEAM Toolbox, Episode 10/102_BEAM_Toolbox_Part_10.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/102 - BEAM Toolbox, Episode 10`
+==============================================================================
+
+
+downloading	./files/103 - BEAM Toolbox, Episode 11/103_BEAM_Toolbox_Part_11.markdown		 [====================] 100% 0.0s
+downloading	./files/103 - BEAM Toolbox, Episode 11/103_BEAM_Toolbox_Part_11.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/103 - BEAM Toolbox, Episode 11`
+==============================================================================
+
+
+downloading	./files/104: Ruby to Elixir via BERT-RPC/104_Ruby_to_Elixir_Via_BERTRPC.markdown		 [====================] 100% 0.0s
+downloading	./files/104: Ruby to Elixir via BERT-RPC/104_Ruby_to_Elixir_Via_BERTRPC.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/104: Ruby to Elixir via BERT-RPC`
+==============================================================================
+
+
+downloading	./files/105 - Farkov Chain/105_Farkov_Chain.markdown		 [====================] 100% 0.0s
+downloading	./files/105 - Farkov Chain/105_Farkov_Chain.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/105 - Farkov Chain`
+==============================================================================
+
+
+downloading	./files/106 - Text Parsing/106_Text_Parsing.markdown		 [====================] 100% 0.0s
+downloading	./files/106 - Text Parsing/106_text_parsing.tar.gz		 [====================] 100% 0.0s
+downloading	./files/106 - Text Parsing/sample.txt		 [====================] 100% 0.0s
+downloading	./files/106 - Text Parsing/sample_output.txt		 [====================] 100% 0.0s
+downloading	./files/106 - Text Parsing/106_Text_Parsing.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/106 - Text Parsing`
+==============================================================================
+
+
+downloading	./files/107 - Phoenix Release/107_Phoenix_Release.mp4		 [====================] 100% 0.0s
+downloading	./files/107 - Phoenix Release/107_Phoenix_Release.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/107 - Phoenix Release`
+==============================================================================
+
+
+downloading	./files/108 - Release Upgrades/108_Release_Upgrades.markdown		 [====================] 100% 0.0s
+downloading	./files/108 - Release Upgrades/108_Release_Upgrades.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/108 - Release Upgrades`
+==============================================================================
+
+
+downloading	./files/109 - Socket/109_Socket.markdown		 [====================] 100% 0.0s
+downloading	./files/109 - Socket/109_Socket.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/109 - Socket`
+==============================================================================
+
+
+downloading	./files/110 - ExTwitter/110_ExTwitter.markdown		 [====================] 100% 0.0s
+downloading	./files/110 - ExTwitter/110_ExTwitter.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/110 - ExTwitter`
+==============================================================================
+
+
+downloading	./files/111 - ExTwitter, Part 2/111_ExTwitter_Part_2.mp4		 [====================] 100% 0.0s
+downloading	./files/111 - ExTwitter, Part 2/111_ExTwitter_Part_2.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/111 - ExTwitter, Part 2`
+==============================================================================
+
+
+downloading	./files/112 - Benchfella/112_Benchfella.mp4		 [====================] 100% 0.0s
+downloading	./files/112 - Benchfella/complex.md		 [====================] 100% 0.0s
+downloading	./files/112 - Benchfella/simple.md		 [====================] 100% 0.0s
+downloading	./files/112 - Benchfella/112_Benchfella.markdown		 [====================] 100% 0.0s
+downloading	./files/112 - Benchfella/112_benchfella.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/112 - Benchfella`
+==============================================================================
+
+
+downloading	./files/113 - Monitoring Network Traffic/113_Monitoring_Network_Traffic.mp4		 [====================] 100% 0.0s
+downloading	./files/113 - Monitoring Network Traffic/113_Monitoring_Network_Traffic.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/113 - Monitoring Network Traffic`
+==============================================================================
+
+
+downloading	./files/114 - Wx Keyboard Events/114_Wx_Keyboard_Events.mp4		 [====================] 100% 0.0s
+downloading	./files/114 - Wx Keyboard Events/114_extris.tar.gz		 [====================] 100% 0.0s
+downloading	./files/114 - Wx Keyboard Events/114_Wx_Keyboard_Events.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/114 - Wx Keyboard Events`
+==============================================================================
+
+
+downloading	./files/115 - Wx Extris Continued/115_Wx_Extris_Continued.mp4		 [====================] 100% 0.0s
+downloading	./files/115 - Wx Extris Continued/115_Wx_Extris_Continued.markdown		 [====================] 100% 0.0s
+downloading	./files/115 - Wx Extris Continued/115_extris.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/115 - Wx Extris Continued`
+==============================================================================
+
+
+downloading	./files/116 - Wx Extris Part 3: Refactoring/116_Wx_Extris_Part_3_Refactoring.markdown		 [====================] 100% 0.0s
+downloading	./files/116 - Wx Extris Part 3: Refactoring/116_Wx_Extris_Part_3_Refactoring.mp4		 [====================] 100% 0.0s
+downloading	./files/116 - Wx Extris Part 3: Refactoring/116_extris.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/116 - Wx Extris Part 3: Refactoring`
+==============================================================================
+
+
+downloading	./files/117: Wx Extris Part 4 - Testing/117_Wx_Extris_Part_4_Testing.mp4		 [====================] 100% 0.0s
+downloading	./files/117: Wx Extris Part 4 - Testing/117_Wx_Extris_Part_4_Testing.markdown		 [====================] 100% 0.0s
+downloading	./files/117: Wx Extris Part 4 - Testing/117_extris.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/117: Wx Extris Part 4 - Testing`
+==============================================================================
+
+
+downloading	./files/118 - WxExtris Part 5/118_Wx_Extris_Part_5.mp4		 [====================] 100% 0.0s
+downloading	./files/118 - WxExtris Part 5/118_Wx_Extris_Part_5.markdown		 [====================] 100% 0.0s
+downloading	./files/118 - WxExtris Part 5/118_extris.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/118 - WxExtris Part 5`
+==============================================================================
+
+
+downloading	./files/119 - WxExtris Part 6/119_Wx_Extris_Part_6.markdown		 [====================] 100% 0.0s
+downloading	./files/119 - WxExtris Part 6/119_extris.tar.gz		 [====================] 100% 0.0s
+downloading	./files/119 - WxExtris Part 6/119_Wx_Extris_Part_6.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/119 - WxExtris Part 6`
+==============================================================================
+
+
+downloading	./files/120 - WxExtris, Part 7/120_Wx_Extris_Part_7.mp4		 [====================] 100% 0.0s
+downloading	./files/120 - WxExtris, Part 7/120_extris.tar.gz		 [====================] 100% 0.0s
+downloading	./files/120 - WxExtris, Part 7/120_Wx_Extris_Part_7.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/120 - WxExtris, Part 7`
+==============================================================================
+
+
+downloading	./files/121 - WxExtris, Part 8/121_extris.tar.gz		 [====================] 100% 0.0s
+downloading	./files/121 - WxExtris, Part 8/121_Wx_Extris_Part_8.mp4		 [====================] 100% 0.0s
+downloading	./files/121 - WxExtris, Part 8/121_Wx_Extris_Part_8.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/121 - WxExtris, Part 8`
+==============================================================================
+
+
+downloading	./files/122 - SDL/122_sdl_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/122 - SDL/122_SDL.mp4		 [====================] 100% 0.0s
+downloading	./files/122 - SDL/122_SDL.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/122 - SDL`
+==============================================================================
+
+
+downloading	./files/123 - SDL Extris/123_SDL_Extris.mp4		 [====================] 100% 0.0s
+downloading	./files/123 - SDL Extris/123_SDL_Extris.markdown		 [====================] 100% 0.0s
+downloading	./files/123 - SDL Extris/123_extris.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/123 - SDL Extris`
+==============================================================================
+
+
+downloading	./files/124 - Typespecs/124_Typespecs.markdown		 [====================] 100% 0.0s
+downloading	./files/124 - Typespecs/124_Typespecs.mp4		 [====================] 100% 0.0s
+downloading	./files/124 - Typespecs/124_typespecs_playground.tar.gz		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/124 - Typespecs`
+==============================================================================
+
+
+downloading	./files/125 - Dialyzer/125_Dialyzer.markdown		 [====================] 100% 0.0s
+downloading	./files/125 - Dialyzer/125_typespecs_playground.tar.gz		 [====================] 100% 0.0s
+downloading	./files/125 - Dialyzer/125_Dialyzer.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/125 - Dialyzer`
+==============================================================================
+
+
+downloading	./files/126 - Piping Into Elixir/126_Piping_Into_Elixir.mp4		 [====================] 100% 0.0s
+downloading	./files/126 - Piping Into Elixir/126_Piping_Into_Elixir.markdown		 [====================] 100% 0.0s
+downloading	./files/126 - Piping Into Elixir/126_pipe.exs		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/126 - Piping Into Elixir`
+==============================================================================
+
+
+downloading	./files/127 - SSH Client Commands/127_SSH_Client_Commands.mp4		 [====================] 100% 0.0s
+downloading	./files/127 - SSH Client Commands/127_SSH_Client_Commands.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/127 - SSH Client Commands`
+==============================================================================
+
+
+downloading	./files/128 - Managing Docker/128_Managing_Docker.mp4		 [====================] 100% 0.0s
+downloading	./files/128 - Managing Docker/128_Managing_Docker.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/128 - Managing Docker`
+==============================================================================
+
+
+downloading	./files/129 - egd/129_egd.markdown		 [====================] 100% 0.0s
+downloading	./files/129 - egd/129_image.exs		 [====================] 100% 0.0s
+downloading	./files/129 - egd/129_egd.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/129 - egd`
+==============================================================================
+
+
+downloading	./files/130 - Extris Web Client/130_Extris_Web_Client.markdown		 [====================] 100% 0.0s
+downloading	./files/130 - Extris Web Client/130_extris.js		 [====================] 100% 0.0s
+downloading	./files/130 - Extris Web Client/130_Extris_Web_Client.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/130 - Extris Web Client`
+==============================================================================
+
+
+downloading	./files/131 - ExProf/131_slow_reverse.tar.gz		 [====================] 100% 0.0s
+downloading	./files/131 - ExProf/131_ExProf.markdown		 [====================] 100% 0.0s
+downloading	./files/131 - ExProf/131_ExProf.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/131 - ExProf`
+==============================================================================
+
+
+downloading	./files/132 - Randomness in the Erlang VM/132_Randomness_in_the_Erlang_VM.markdown		 [====================] 100% 0.0s
+downloading	./files/132 - Randomness in the Erlang VM/132_Randomness_in_the_Erlang_VM.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/132 - Randomness in the Erlang VM`
+==============================================================================
+
+
+downloading	./files/133 - Boltun: Postgres Listen Notify/133_Boltun_Postgres_Listen_Notify.markdown		 [====================] 100% 0.0s
+downloading	./files/133 - Boltun: Postgres Listen Notify/133_Boltun_Postgres_Listen_Notify.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/133 - Boltun: Postgres Listen Notify`
+==============================================================================
+
+
+downloading	./files/134 - Elastic Search with Tirexs/134_Elastic_Search_with_Tirexs.markdown		 [====================] 100% 0.0s
+downloading	./files/134 - Elastic Search with Tirexs/134_Elastic_Search_with_Tirexs.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/134 - Elastic Search with Tirexs`
+==============================================================================
+
+
+downloading	./files/135 - Benchwarmer/135_Benchwarmer.markdown		 [====================] 100% 0.0s
+downloading	./files/135 - Benchwarmer/135_Benchwarmer.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/135 - Benchwarmer`
+==============================================================================
+
+
+downloading	./files/136 - Interfacing with Asterisk/136_Interfacing_with_Asterisk.markdown		 [====================] 100% 0.0s
+downloading	./files/136 - Interfacing with Asterisk/136_Interfacing_with_Asterisk.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/136 - Interfacing with Asterisk`
+==============================================================================
+
+
+downloading	./files/137 - Asterisk AGI with Elixir/137_Asterisk_AGI_with_Elixir.markdown		 [====================] 100% 0.0s
+downloading	./files/137 - Asterisk AGI with Elixir/137_Asterisk_AGI_with_Elixir.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/137 - Asterisk AGI with Elixir`
+==============================================================================
+
+
+downloading	./files/138 - Monitors and Links/138_Monitors_and_Links.markdown		 [====================] 100% 0.0s
+downloading	./files/138 - Monitors and Links/138_Monitors_and_Links.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/138 - Monitors and Links`
+==============================================================================
+
+
+downloading	./files/139 - hexdocs/139_hexdocs.markdown		 [====================] 100% 0.0s
+downloading	./files/139 - hexdocs/139_hexdocs.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/139 - hexdocs`
+==============================================================================
+
+
+downloading	./files/140 - gopher/140_gopher.markdown		 [====================] 100% 0.0s
+downloading	./files/140 - gopher/140_gopher.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/140 - gopher`
+==============================================================================
+
+
+downloading	./files/141 - Set/141_Set.mp4		 [====================] 100% 0.0s
+downloading	./files/141 - Set/141_Set.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/141 - Set`
+==============================================================================
+
+
+downloading	./files/142 - escript/142_escript.markdown		 [====================] 100% 0.0s
+downloading	./files/142 - escript/142_escript.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/142 - escript`
+==============================================================================
+
+
+downloading	./files/143 - phoenix_generator/143_phoenix_generator.markdown		 [====================] 100% 0.0s
+downloading	./files/143 - phoenix_generator/143_phoenix_generator.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/143 - phoenix_generator`
+==============================================================================
+
+
+downloading	./files/144 - Erlang's `calendar` module/144_erlangs_calendar_module.markdown		 [====================] 100% 0.0s
+downloading	./files/144 - Erlang's `calendar` module/144_erlangs_calendar_module.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/144 - Erlang's `calendar` module`
+==============================================================================
+
+
+downloading	./files/145_good_times/145_good_times.markdown		 [====================] 100% 0.0s
+downloading	./files/145_good_times/145_good_times.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/145_good_times`
+==============================================================================
+
+
+downloading	./files/146 - mailman/146_mailman.markdown		 [====================] 100% 0.0s
+downloading	./files/146 - mailman/146_mailman.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/146 - mailman`
+==============================================================================
+
+
+downloading	./files/147 - webassembly/147_webassembly.mp4		 [====================] 100% 0.0s
+downloading	./files/147 - webassembly/147_webassembly.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/147 - webassembly`
+==============================================================================
+
+
+downloading	./files/148 - ejabberd with Elixir/148_ejabberd_with_elixir.markdown		 [====================] 100% 0.0s
+downloading	./files/148 - ejabberd with Elixir/148_ejabberd_with_elixir.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/148 - ejabberd with Elixir`
+==============================================================================
+
+
+downloading	./files/149 - ejabberd Packet Filters/149_ejabberd_packet_filters.markdown		 [====================] 100% 0.0s
+downloading	./files/149 - ejabberd Packet Filters/149_ejabberd_packet_filters.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/149 - ejabberd Packet Filters`
+==============================================================================
+
+
+downloading	./files/150 - JInterface/150_JInterface.markdown		 [====================] 100% 0.0s
+downloading	./files/150 - JInterface/150_JInterface.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/150 - JInterface`
+==============================================================================
+
+
+downloading	./files/151 - System Information/151_system_information.markdown		 [====================] 100% 0.0s
+downloading	./files/151 - System Information/151_system_information.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/151 - System Information`
+==============================================================================
+
+
+downloading	./files/152 - erlang_js/152_erlang_js.markdown		 [====================] 100% 0.0s
+downloading	./files/152 - erlang_js/152_erlang_js.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/152 - erlang_js`
+==============================================================================
+
+
+downloading	./files/153 - Phoenix APIs and CORS/153_Phoenix_APIs_and_CORS.markdown		 [====================] 100% 0.0s
+downloading	./files/153 - Phoenix APIs and CORS/153_Phoenix_APIs_and_CORS.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/153 - Phoenix APIs and CORS`
+==============================================================================
+
+
+downloading	./files/154 - inet/154_inet.markdown		 [====================] 100% 0.0s
+downloading	./files/154 - inet/154_inet.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/154 - inet`
+==============================================================================
+
+
+downloading	./files/155 - OAuth2: Code Spelunking/155_OAuth2_Code_Spelunking.mp4		 [====================] 100% 0.0s
+downloading	./files/155 - OAuth2: Code Spelunking/155_OAuth2_Code_Spelunking.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/155 - OAuth2: Code Spelunking`
+==============================================================================
+
+
+downloading	./files/156 - Interacting with Amazon's APIs with erlcloud/156_Interacting_with_Amazons_APIs_with_erlcloud.markdown		 [====================] 100% 0.0s
+downloading	./files/156 - Interacting with Amazon's APIs with erlcloud/156_Interacting_with_Amazons_APIs_with_erlcloud.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/156 - Interacting with Amazon's APIs with erlcloud`
+==============================================================================
+
+
+downloading	./files/157 - Playing with the Code Module Part 1 - eval_string/157_Playing_with_the_Code_Module_Part_1.markdown		 [====================] 100% 0.0s
+downloading	./files/157 - Playing with the Code Module Part 1 - eval_string/157_Playing_with_the_Code_Module_Part_1.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/157 - Playing with the Code Module Part 1 - eval_string`
+==============================================================================
+
+
+downloading	./files/158 - SOAP with Detergentex/158_SOAP_with_Detergentex.markdown		 [====================] 100% 0.0s
+downloading	./files/158 - SOAP with Detergentex/158_SOAP_with_Detergentex.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/158 - SOAP with Detergentex`
+==============================================================================
+
+
+downloading	./files/159 - Simple One for One Supervisors/159_Simple_One_for_One_Supervisors.markdown		 [====================] 100% 0.0s
+downloading	./files/159 - Simple One for One Supervisors/159_Simple_One_for_One_Supervisors.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/159 - Simple One for One Supervisors`
+==============================================================================
+
+
+downloading	./files/160 - MultiDef/160_MultiDef.markdown		 [====================] 100% 0.0s
+downloading	./files/160 - MultiDef/160_MultiDef.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/160 - MultiDef`
+==============================================================================
+
+
+==============================================================================
+Finished working on `./files/161 - Building a Cron System, Part 1`
+==============================================================================
+
+
+downloading	./files/162 - Building a Cron System, Part 2/162_Building_a_Cron_System_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/162 - Building a Cron System, Part 2/162_Building_a_Cron_System_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/162 - Building a Cron System, Part 2`
+==============================================================================
+
+
+downloading	./files/163 - Building a Cron System, Part 3/163_Building_a_Cron_System_Part_3.mp4		 [====================] 100% 0.0s
+downloading	./files/163 - Building a Cron System, Part 3/163_Building_a_Cron_System_Part_3.markdown		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/163 - Building a Cron System, Part 3`
+==============================================================================
+
+
+downloading	./files/164 - Fractals/164_Fractals.md		 [====================] 100% 0.0s
+downloading	./files/164 - Fractals/164_Fractals.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/164 - Fractals`
+==============================================================================
+
+
+==============================================================================
+Finished working on `./files/165 - Accounting 101`
+==============================================================================
+
+
+downloading	./files/166 - Implementing Logo, Part 1/166_Implementing_Logo.markdown		 [====================] 100% 0.0s
+downloading	./files/166 - Implementing Logo, Part 1/166_Implementing_Logo.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/166 - Implementing Logo, Part 1`
+==============================================================================
+
+
+downloading	./files/167 - Implementing Logo, Part 2/167_logo.tar.gz		 [====================] 100% 0.0s
+downloading	./files/167 - Implementing Logo, Part 2/167_Implementing_Logo_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/167 - Implementing Logo, Part 2/167_Implementing_Logo_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/167 - Implementing Logo, Part 2`
+==============================================================================
+
+
+downloading	./files/168 - Continuous Integration/168_Continuous_Integration.markdown		 [====================] 100% 0.0s
+downloading	./files/168 - Continuous Integration/168_Continuous_Integration.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/168 - Continuous Integration`
+==============================================================================
+
+
+downloading	./files/169 - Fractals, Part 2/169_Fractals_Part_2.markdown		 [====================] 100% 0.0s
+downloading	./files/169 - Fractals, Part 2/169_Fractals_Part_2.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/169 - Fractals, Part 2`
+==============================================================================
+
+
+downloading	./files/170 - Building a Slack Bot/170_magiccitytech_slack.tar.gz		 [====================] 100% 0.0s
+downloading	./files/170 - Building a Slack Bot/170_Building_a_Slack_Bot.markdown		 [====================] 100% 0.0s
+downloading	./files/170 - Building a Slack Bot/170_Building_a_Slack_Bot.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/170 - Building a Slack Bot`
+==============================================================================
+
+
+downloading	./files/171 - Erlang 18 and Time/171_Erlang_18_and_time.markdown		 [====================] 100% 0.0s
+downloading	./files/171 - Erlang 18 and Time/171_Erlang_18_and_time.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/171 - Erlang 18 and Time`
+==============================================================================
+
+
+downloading	./files/172 - Arc File Uploads/172_Arc_File_Uploads.markdown		 [====================] 100% 0.0s
+downloading	./files/172 - Arc File Uploads/172_Arc_File_Uploads.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/172 - Arc File Uploads`
+==============================================================================
+
+
+downloading	./files/173 - Continuous Deployment/173_Continuous_Deployment.markdown		 [====================] 100% 0.0s
+downloading	./files/173 - Continuous Deployment/173_Continuous_Deployment.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/173 - Continuous Deployment`
+==============================================================================
+
+
+downloading	./files/174 - ElixirFriends: Saving Tweets with Streams and Filters/174_ElixirFriends_Saving_Tweets_with_Streams_and_Filters.markdown		 [====================] 100% 0.0s
+downloading	./files/174 - ElixirFriends: Saving Tweets with Streams and Filters/174_ElixirFriends_Saving_Tweets_with_Streams_and_Filters.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/174 - ElixirFriends: Saving Tweets with Streams and Filters`
+==============================================================================
+
+
+downloading	./files/175 - Pagination with Ecto and Phoenix using Scrivener/175_Pagination_with_Ecto_and_Phoenix.markdown		 [====================] 100% 0.0s
+downloading	./files/175 - Pagination with Ecto and Phoenix using Scrivener/175_Pagination_with_Ecto_and_Phoenix.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/175 - Pagination with Ecto and Phoenix using Scrivener`
+==============================================================================
+
+
+downloading	./files/176 - Prettying Up ElixirFriends/176_Prettying_Up_ElixirFriends.markdown		 [====================] 100% 0.0s
+downloading	./files/176 - Prettying Up ElixirFriends/176_Prettying_Up_ElixirFriends.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/176 - Prettying Up ElixirFriends`
+==============================================================================
+
+
+downloading	./files/177 - Audio Visualizer/177_Audio_Visualizer.markdown		 [====================] 100% 0.0s
+downloading	./files/177 - Audio Visualizer/177_Audio_Visualizer.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/177 - Audio Visualizer`
+==============================================================================
+
+
+downloading	./files/178 - Memory Leaks/178_Memory_Leaks.markdown		 [====================] 100% 0.0s
+downloading	./files/178 - Memory Leaks/178_Memory_Leaks.mp4		 [====================] 100% 0.0s
+==============================================================================
+Finished working on `./files/178 - Memory Leaks`
+==============================================================================
+
+
+==============================================================================
+Finished working on `./files/179 - Rules Engine`
+==============================================================================
+
+
+already downloaded	 ./files/180 - Collectable/180_Collectable.markdown
+already downloaded	 ./files/180 - Collectable/180_Collectable.mp4
+==============================================================================
+Finished working on `./files/180 - Collectable`
+==============================================================================
+
+
+already downloaded	 ./files/181 - Native Compilation with HiPE/181_Native_Compilation_with_HiPE.markdown
+already downloaded	 ./files/181 - Native Compilation with HiPE/181_Native_Compilation_with_HiPE.mp4
+==============================================================================
+Finished working on `./files/181 - Native Compilation with HiPE`
+==============================================================================
+
+
+
+finished downloading content
+
+[ './files/001 - Introduction and Installing Elixir',
+  './files/002 - Basic Elixir',
+  './files/003 - Pattern Matching',
+  './files/004 - Functions',
+  './files/005 - Mix and Modules',
+  './files/006 - Unit Testing',
+  './files/007 - Dynamo, Part 1',
+  './files/008 - Dynamo, Part 2',
+  './files/009 - Dynamo, Part 3',
+  './files/010 - List Comprehensions',
+  './files/011 - Records',
+  './files/012 - Processes',
+  './files/013 - Processes, Part 2',
+  './files/014 - OTP Part 1: Servers',
+  './files/015 - OTP Part 2: Finite State Machines',
+  './files/016 - Pipe Operator',
+  './files/017 - Enum, Part 1',
+  './files/018 - Enum, Part 2',
+  './files/019 - Enum, Part 3',
+  './files/020 - OTP, Part 3 - GenEvent',
+  './files/021 - ZeldaCat, Part 2',
+  './files/022 - OTP, Part 4: Supervisors',
+  './files/023 - OTP, Part 5: Supervisors and Persistent State',
+  './files/024 - Ecto, Part 1',
+  './files/025 - Ecto, Part 2: Dwitter',
+  './files/026 - Dict, Part 1',
+  './files/027 - Dict, Part 2',
+  './files/028 - Parsing XML',
+  './files/029 - HTTP Clients',
+  './files/030 - ExActor',
+  './files/031 - TCP Servers',
+  './files/032 - Command Line Scripts',
+  './files/033 - Pry',
+  './files/034 - Elixiak',
+  './files/035 - Weber',
+  './files/036 - Weber, Part 2 - Performance',
+  './files/037 - ExLager',
+  './files/038 - Binaries: Deconstructing and Constructing',
+  './files/039 - Binaries: Deconstructing an IP Packet',
+  './files/040 - Bitwise',
+  './files/041 - File, Part 1',
+  './files/042 - File, Part 2',
+  './files/043 - Releases With Relex',
+  './files/044 - Distribution',
+  './files/045 - Distribution, Part 2',
+  './files/046 - Markdown Server, Part 1',
+  './files/047 - Markdown Server, Part 2',
+  './files/048 - Markdown Server, Part 3',
+  './files/049 - Markdown Server, Part 4',
+  './files/050 - Markdown Server, Part 5',
+  './files/051 - BEAM Toolbox, Part 1',
+  './files/052 - BEAM Toolbox, Part 2',
+  './files/053 - BEAM Toolbox, Part 3',
+  './files/054 - Maps, Part 1',
+  './files/055 - Maps, Part 2: Structs',
+  './files/056 - Migrating Records To Maps',
+  './files/057 - BEAM Toolbox, Part 4',
+  './files/058 - BEAM Toolbox, Part 5',
+  './files/059 - Custom Mix Tasks',
+  './files/060 - New Style Comprehensions',
+  './files/061 - Plug',
+  './files/062 - Quickie Synth',
+  './files/063 - Tracing',
+  './files/064 - Digraph',
+  './files/065 - SSH',
+  './files/066 - Plug.Static',
+  './files/067 - Deploying to Heroku',
+  './files/068 - Port',
+  './files/069 - Observer',
+  './files/070 - Hex',
+  './files/071 - Wx',
+  './files/072 - WxCalc, Part 2',
+  './files/073 - Process Dictionaries',
+  './files/074 - ETS',
+  './files/075 - DETS',
+  './files/076 - Streams',
+  './files/077 - Exceptions and Errors',
+  './files/078 - Agents',
+  './files/079 - Tasks',
+  './files/080 - erlubi',
+  './files/081 - EEx',
+  './files/082 - Protocols',
+  './files/083 - pg2',
+  './files/084 - PCM Audio',
+  './files/085 - Apex',
+  './files/086 - put_in and get_in',
+  './files/087 - WordCloud',
+  './files/088 - Porcelain',
+  './files/089 - Protocol Buffers',
+  './files/090 - Websockets Terminal',
+  './files/091 - Test Coverage',
+  './files/092 - Link Extractor',
+  './files/093 - Link Extractor, Part 2',
+  './files/094 - Link Extractor, Part 3',
+  './files/095 - Link Extractor, Part 4',
+  './files/096 - Arduino Motor Driver',
+  './files/097 - BEAM Toolbox, Part 6',
+  './files/098 - Contributing to Open Source',
+  './files/099 - BEAM Toolbox, Part 7',
+  './files/100 - BEAM Toolbox, Part 8',
+  './files/101 - BEAM Toolbox, Part 9',
+  './files/102 - BEAM Toolbox, Episode 10',
+  './files/103 - BEAM Toolbox, Episode 11',
+  './files/104: Ruby to Elixir via BERT-RPC',
+  './files/105 - Farkov Chain',
+  './files/106 - Text Parsing',
+  './files/107 - Phoenix Release',
+  './files/108 - Release Upgrades',
+  './files/109 - Socket',
+  './files/110 - ExTwitter',
+  './files/111 - ExTwitter, Part 2',
+  './files/112 - Benchfella',
+  './files/113 - Monitoring Network Traffic',
+  './files/114 - Wx Keyboard Events',
+  './files/115 - Wx Extris Continued',
+  './files/116 - Wx Extris Part 3: Refactoring',
+  './files/117: Wx Extris Part 4 - Testing',
+  './files/118 - WxExtris Part 5',
+  './files/119 - WxExtris Part 6',
+  './files/120 - WxExtris, Part 7',
+  './files/121 - WxExtris, Part 8',
+  './files/122 - SDL',
+  './files/123 - SDL Extris',
+  './files/124 - Typespecs',
+  './files/125 - Dialyzer',
+  './files/126 - Piping Into Elixir',
+  './files/127 - SSH Client Commands',
+  './files/128 - Managing Docker',
+  './files/129 - egd',
+  './files/130 - Extris Web Client',
+  './files/131 - ExProf',
+  './files/132 - Randomness in the Erlang VM',
+  './files/133 - Boltun: Postgres Listen Notify',
+  './files/134 - Elastic Search with Tirexs',
+  './files/135 - Benchwarmer',
+  './files/136 - Interfacing with Asterisk',
+  './files/137 - Asterisk AGI with Elixir',
+  './files/138 - Monitors and Links',
+  './files/139 - hexdocs',
+  './files/140 - gopher',
+  './files/141 - Set',
+  './files/142 - escript',
+  './files/143 - phoenix_generator',
+  './files/144 - Erlang\'s `calendar` module',
+  './files/145_good_times',
+  './files/146 - mailman',
+  './files/147 - webassembly',
+  './files/148 - ejabberd with Elixir',
+  './files/149 - ejabberd Packet Filters',
+  './files/150 - JInterface',
+  './files/151 - System Information',
+  './files/152 - erlang_js',
+  './files/153 - Phoenix APIs and CORS',
+  './files/154 - inet',
+  './files/155 - OAuth2: Code Spelunking',
+  './files/156 - Interacting with Amazon\'s APIs with erlcloud',
+  './files/157 - Playing with the Code Module Part 1 - eval_string',
+  './files/158 - SOAP with Detergentex',
+  './files/159 - Simple One for One Supervisors',
+  './files/160 - MultiDef',
+  './files/161 - Building a Cron System, Part 1',
+  './files/162 - Building a Cron System, Part 2',
+  './files/163 - Building a Cron System, Part 3',
+  './files/164 - Fractals',
+  './files/165 - Accounting 101',
+  './files/166 - Implementing Logo, Part 1',
+  './files/167 - Implementing Logo, Part 2',
+  './files/168 - Continuous Integration',
+  './files/169 - Fractals, Part 2',
+  './files/170 - Building a Slack Bot',
+  './files/171 - Erlang 18 and Time',
+  './files/172 - Arc File Uploads',
+  './files/173 - Continuous Deployment',
+  './files/174 - ElixirFriends: Saving Tweets with Streams and Filters',
+  './files/175 - Pagination with Ecto and Phoenix using Scrivener',
+  './files/176 - Prettying Up ElixirFriends',
+  './files/177 - Audio Visualizer',
+  './files/178 - Memory Leaks',
+  './files/179 - Rules Engine',
+  './files/180 - Collectable',
+  './files/181 - Native Compilation with HiPE' ]
+mac:elixirsips-grabber iii$ vo
