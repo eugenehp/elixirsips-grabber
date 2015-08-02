@@ -1,7 +1,8 @@
 Elixirsips Grabber
 ===================
 
-Elixirsips Grabber to simplify watching :)
+Elixirsips Grabber to simplify watching
+
 Creates offline version of the elixirsips videos, so you can watch them without Internet access.
 
 Install
