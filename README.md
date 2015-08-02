@@ -4,6 +4,10 @@ Elixirsips Grabber
 Elixirsips Grabber to simplify watching :)
 Creates offline version of the elixirsips videos, so you can watch them without Internet access.
 
+Install
+==================
+`npm install`
+
 Run
 ==================
 Make sure you have `email` and `password` as part of your env vars. Then simply call
