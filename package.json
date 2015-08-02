@@ -17,6 +17,7 @@
   "dependencies": {
     "async": "^1.4.0",
     "cheerio": "^0.19.0",
+    "progress": "^1.1.8",
     "request": "^2.60.0"
   }
 }

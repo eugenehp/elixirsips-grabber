@@ -1,8 +1,9 @@
-var fs 		= require('fs');
-var request = require('request');
-var cheerio	= require('cheerio');
-var async 	= require('async');
-var utils 	= require('./utils.js');
+var fs 			= require('fs');
+var request 	= require('request');
+var cheerio		= require('cheerio');
+var async 		= require('async');
+var progress 	= require('progress');
+var utils 		= require('./utils.js');
 
 var rootURL 	= 'https://elixirsips.dpdcart.com';
 var loginURL 	= 'https://elixirsips.dpdcart.com/subscriber/login';
@@ -118,19 +119,35 @@ function storeContent(directoryName, links){
 }
 
 function getFile(array,cb){
-	console.log('getFile',array);
 	var filename 	= array[0];
 	var fileURL 	= array[1];
 
-	var r = request({
+	var length = 0;
+	var bar;
+
+	request({
 		method: 	'GET',
 		url: 		fileURL,
 		jar: 		cookiesJar
 	})
 	.on('response', function(response) {
-		console.log(filename,response.statusCode,response.headers['content-type']) // 'image/png'
-	})
-	.pipe(fs.createWriteStream(filename))
+		length = parseInt(response.headers['content-length'], 10);
+		
+		console.log();
+		bar = new progress('downloading '+filename+' [:bar] :percent :etas', {
+			complete: '=',
+			incomplete: ' ',
+			width: 20,
+			total: length
+		});
 
-	r.on('end',cb);
+		// console.log(filename,response.statusCode,response.headers['content-type']) // 'image/png'
+	})
+	.on('data', function (chunk) {
+		bar.tick(chunk.length);
+	})
+	.on('end',function(){
+		cb(null,filename);
+	})
+	.pipe(fs.createWriteStream(filename));
 }
