@@ -2,6 +2,7 @@ var fs 		= require('fs');
 var request = require('request');
 var cheerio	= require('cheerio');
 var async 	= require('async');
+var utils 	= require('./utils.js');
 
 var rootURL 	= 'https://elixirsips.dpdcart.com';
 var loginURL 	= 'https://elixirsips.dpdcart.com/subscriber/login';
@@ -11,6 +12,8 @@ var password 	= process.env.password || '';
 
 var cookiesJar 	= request.jar()
 var dir 		= './tmp';
+
+utils.deleteFolderRecursive(dir);
 
 if (!fs.existsSync(dir)){
 	fs.mkdirSync(dir);
@@ -108,13 +111,14 @@ function storeContent(directoryName, links){
 		inputLinks.push([filename,fileURL]); // [ ['text.txt','g.co/text.txt'], ['image.png','g.co/image.png'] ]
 	};
 
-	async.mapSeries(result,getFile,function(err, results){
+	async.mapSeries(inputLinks,getFile,function(err, results){
 		console.log('Finished working on `'+directoryName+'`');
 		console.log(results);
 	});
 }
 
 function getFile(array,cb){
+	console.log('getFile',array);
 	var filename 	= array[0];
 	var fileURL 	= array[1];
 
