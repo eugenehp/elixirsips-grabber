@@ -59,11 +59,9 @@ function getListOfContent(){
 			var a = [];
 			$('div.content-post-meta > a').each(function(){
 				a.push( 'https://elixirsips.dpdcart.com' + $(this).attr('href') );
-				if(a.length == 2)
-					iterateEachContent(a.reverse());
 			});
 
-			// iterateEachContent(a.reverse());
+			iterateEachContent(a.reverse());
 		}
 	});
 }
