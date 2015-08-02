@@ -108,7 +108,10 @@ function storeContent(directoryName, links){
 		inputLinks.push([filename,fileURL]); // [ ['text.txt','g.co/text.txt'], ['image.png','g.co/image.png'] ]
 	};
 
-	async.mapSeries(result,)
+	async.mapSeries(result,getFile,function(err, results){
+		console.log('Finished working on `'+directoryName+'`');
+		console.log(results);
+	});
 }
 
 function getFile(array,cb){
