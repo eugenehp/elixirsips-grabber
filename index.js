@@ -14,6 +14,7 @@ var password 	= process.env.password || '';
 var cookiesJar 	= request.jar()
 var dir 		= './files';
 var currentFile = '';
+var currentDir 	= '';
 
 if (!fs.existsSync(dir)){
 	fs.mkdirSync(dir);
@@ -100,25 +101,32 @@ function grabContent(contentURL, cb){
 }
 
 function storeContent(directoryName, links, cb){
+	currentDir = directoryName;
 	if (!fs.existsSync(directoryName)){
 		fs.mkdirSync(directoryName);
-	}
+	
+		var inputLinks = [];
 
-	var inputLinks = [];
+		for (var i = links.length - 1; i >= 0; i--) {
+			var filename 	= directoryName + '/' +links[i].title;
+			var fileURL 	= links[i].link;
 
-	for (var i = links.length - 1; i >= 0; i--) {
-		var filename 	= directoryName + '/' +links[i].title;
-		var fileURL 	= links[i].link;
+			inputLinks.push([filename,fileURL]); // [ ['text.txt','g.co/text.txt'], ['image.png','g.co/image.png'] ]
+		};
 
-		inputLinks.push([filename,fileURL]); // [ ['text.txt','g.co/text.txt'], ['image.png','g.co/image.png'] ]
-	};
+		async.mapSeries(inputLinks,getFile,function(err, results){
+			console.log('==============================================================================');
+			console.log('Finished working on `'+directoryName+'`');
+			console.log('==============================================================================\n\n');
+			cb(err,directoryName);
+		});
 
-	async.mapSeries(inputLinks,getFile,function(err, results){
+	}else{	// directory exists
 		console.log('==============================================================================');
-		console.log('Finished working on `'+directoryName+'`');
+		console.log('Already finished with `'+directoryName+'`');
 		console.log('==============================================================================\n\n');
-		cb(err,directoryName);
-	});
+		cb(null,directoryName);
+	}
 }
 
 function getFile(array,cb){
@@ -166,6 +174,10 @@ function exitHandler(options, err){
 		console.log('\nCleaning up, removing current file:',currentFile);
 		if( fs.existsSync(currentFile) )
 			fs.unlinkSync(currentFile);
+
+		console.log('\nCleaning up, removing current directory:',currentDir);
+		if( fs.existsSync(currentDir) )
+			fs.unlinkSync(currentDir);
 	}
     if (err) console.log(err.stack);
     if (options.exit) process.exit();
