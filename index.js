@@ -175,9 +175,9 @@ function exitHandler(options, err){
 		if( fs.existsSync(currentFile) )
 			fs.unlinkSync(currentFile);
 
-		console.log('\nCleaning up, removing current directory:',currentDir);
-		if( fs.existsSync(currentDir) )
-			fs.unlinkSync(currentDir);
+		//console.log('\nCleaning up, removing current directory:',currentDir);
+		//if( fs.existsSync(currentDir) )
+		//	fs.rmdirSync(currentDir);
 	}
     if (err) console.log(err.stack);
     if (options.exit) process.exit();
